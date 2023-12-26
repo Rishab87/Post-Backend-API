@@ -14,7 +14,7 @@ Replace your database url in .env.
 ### Commands To Run To Install Dependencies
 
 ```bash
-npm i express nodemon mongoose dotenv
+npm install 
 ```
 
 ### To Run This Code
